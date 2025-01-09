@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Not Token</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            padding: 20px;
+            color: white;
+            font-size: 2rem;
+        }
+        .container {
+            padding: 20px;
+        }
+        .banner {
+            width: 100%;
+            max-width: 800px;
+            margin: 20px auto;
+        }
+        .token-info {
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin: 20px auto;
+            max-width: 800px;
+        }
+        footer {
+            padding: 20px;
+            background: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Why Not Token
+    </header>
+    <div class="container">
+        <img class="banner" src="banner.png" alt="Why Not Token Banner">
+        <div class="token-info">
+            <h2>What is Why Not Token?</h2>
+            <p>Why Not Token (WNT) is a meme coin built on the Solana blockchain designed to make crypto fun while supporting viral campaigns and community growth.</p>
+            <p>Token Symbol: <strong>WNT</strong></p>
+            <p>Total Supply: 1,000,000,000 WNT</p>
+            <p>Blockchain: Solana</p>
+        </div>
+    </div>
+    <footer>
+        Join the Movement! | <a href="#">DexScreener Listing</a>
+    </footer>
+</body>
+</html>
